@@ -1,0 +1,8 @@
+.background{
+background-color:skyblue;	
+}
+
+.row{
+	display:flex;
+	justify-content:space-around;
+}
